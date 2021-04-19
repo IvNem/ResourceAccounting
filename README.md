@@ -16,6 +16,7 @@
 | int | String       | Real       | String        | Real         | Date          |
 
 *Таблица 2.*
+
 ![alt text](Screenshot_1.png)
 
 ***Требования к решению:***
