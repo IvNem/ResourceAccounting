@@ -25,4 +25,4 @@ URL для тестирования API. Исходный код должен д
 доступе (Github) и содержать достаточный объем комментариев. Желательно реализовать
 решение с применением стека: Flask/Django + MySQL/MongoDB/PostrgeSQL.
 
-
+https://pure-lake-94732.herokuapp.com/resources/
